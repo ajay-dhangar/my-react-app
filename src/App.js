@@ -3,9 +3,10 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello World, Welcome to CodeHarborHub! </h1>
+      <h1>Welcome to CodeHarborHub!</h1>
       <h3>
-        My name is Ajay Dhangar and I shared wih you my live code playground.
+        Hi there! <br />
+        I've shared my live code playground with you.
       </h3>
     </div>
   );
